@@ -1,0 +1,614 @@
+/*Medium device (MD)*/
+@media (max-width: 1199px) {
+	.containerHalf.pull-right {
+		padding-right: 20px;	
+	}
+	.containerHalf.pull-left {
+		padding-left: 20px;	
+	}
+	.CMSmagento {
+		padding-top: 156px;
+		padding-bottom: 116px;
+	}
+	.agence br {
+		display: none;
+	}
+}
+/*Small device (SD)*/
+@media (max-width: 991px) {
+h1, h1 a {
+	font-size: 48px;
+	margin: 0 0 33px 0;
+}
+h2, h2 a {
+	font-size: 36px;
+}
+h3, h3 a {
+	font-size: 34px;
+}
+h4, h4 a {
+	font-size: 30px;
+}
+h5, h5 a {
+	font-size: 26px;
+}
+h6, h6 a {
+	font-size: 20px;
+}
+.btnWhite-lg {
+	font-size: 20px;
+	padding: 9px 20px;
+}
+.carouselWraper .carousel {
+	height: 780px;
+}
+.carouselWraper .carousel .item h1 {
+	line-height: 63px;
+}
+.projects {
+	padding-top: 103px;
+	padding-bottom: 93px;
+}
+.traficWide {
+	padding-top: 143px;
+	padding-bottom: 103px;
+}
+.containerHalf.pull-right {
+	padding-right: 0px;	
+}
+.containerHalf.pull-left {
+	padding-left: 0px;	
+}
+.whiteWide {
+	padding-top: 33px;
+	padding-bottom: 33px;
+}
+.CMSdrupalWide {
+	background-image: none;
+}
+.CMSmagento {
+	padding-top: 86px;
+	padding-bottom: 46px;
+}
+.webSolution {
+	padding-top: 73px;
+	padding-bottom: 76px;
+}
+.seo {
+	padding-top: 86px;
+	padding-bottom: 86px;
+}
+.seo h3 {
+	font-size: 26px;
+}
+.seo img {
+	width: 80%;
+}
+.EmarketingWide {
+	background-image: none;
+}
+.Emarketing {
+	padding-top: 86px;
+	padding-bottom: 83px;
+}
+.mission {
+	padding-top: 86px;
+	padding-bottom: 86px;
+}
+.ctaBox {
+	padding: 23px 0;
+}
+.ctaBox img {
+	margin-bottom: 13px;
+}
+.ctaBox br {
+	display: none;
+}
+.CMSdrupal {
+    padding-bottom: 46px;
+    padding-top: 46px;
+	text-align: center;
+}
+.CMSmagento {
+	padding-top: 46px;
+	padding-bottom: 36px;
+	text-align: center;
+}
+.webSolution {
+	padding-top: 43px;
+	padding-bottom: 36px;
+	text-align: center;
+}
+.seo {
+	padding-top: 46px;
+	padding-bottom: 46px;
+	text-align: center;
+}
+.Emarketing {
+	padding-top: 46px;
+	padding-bottom: 43px;
+	text-align: center;
+}
+.mission {
+	padding-top: 46px;
+	padding-bottom: 46px;
+}
+.mission img {
+	width: 25%;
+}
+.CMSdrupal br,
+.CMSmagento br,
+.webSolution br {
+	display: none;
+}
+.servicesToggleContent {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+}
+.servicesToggleContent img {
+	width: 26%;
+	margin-bottom: 23px;
+}
+.portfolioContent {
+	padding-top: 59px;
+	padding-bottom: 59px;
+}
+.porifilio .containerHalf,
+.planche .containerHalf {
+	width: 100%;
+}
+.flexyContainer {
+		height: auto;
+}
+.sommelier {
+	background-position: right top;
+	height: 489px;
+}
+.Denturologiste {
+	background-position: right top;
+	height: 391px;
+}
+.Habitation {
+	background-position: right top;
+	height: 309px;
+}
+.RJCP {
+	background-position: right top;
+	height: 433px;
+}
+.MLorraine {
+	background-position: left top;
+	height: 359px;
+}
+.Plomberie {
+	background-position: left top;
+	height: 408px;
+}
+.Dansereau {
+	background-position: left top;
+	height: 334px;
+}
+.Atlantis {
+	background-position: left top;
+	height: 521px;
+}
+.formStyle .form-group {
+	margin-bottom: 15px;
+}
+.formStyle input[type="text"],
+.formStyle input[type="email"],
+.formStyle input[type="number"],
+.formStyle input[type="tel"],
+.formStyle input[type="password"],
+.formStyle textarea,
+.formStyle select {
+	padding: 13px 17px;
+	font-size: 14px;
+}
+.formStyle .btn-default {
+	font-size: 14px;
+	padding: 13px 17px;
+}
+.formStyle .btn .caret { 
+  border-top: 5px dashed;
+  border-top: 5px solid \9;
+  border-right: 5px solid transparent;
+  border-left: 5px solid transparent;
+}
+.formStyle textarea {
+	height: 150px;
+}
+.agence img {
+	margin-bottom: 23px;
+	width: 43%;
+}
+.agence h2 {
+	line-height: normal;
+}
+.agence br {
+	display: none;
+}	
+.footerContactInfo, .socialMedia,
+.footerWide .btnOrenge {
+	margin: 23px 0;
+}
+.leftOne, .leftTwo, .leftThree, .leftFour, .leftfive,
+.rightOne, .rightTwo, .rightThree, .rightFour, .rightFive {
+	height: auto; 
+}
+}
+/*Extra small device (XS)*/
+@media (max-width: 767px) {	
+.equal {
+	height: auto !important;
+}
+.containerHalf.pull-right {
+	float: none !important;
+}
+.containerHalf.pull-left {
+	float: none !important;
+}
+h1, h1 a {
+	font-size: 36px;
+	margin: 0 0 23px 0;
+}
+h2, h2 a {
+	font-size: 34px;
+	margin: 0 0 20px 0;
+}
+h3, h3 a {
+	font-size: 32px;
+	margin: 0 0 17px 0;
+}
+h4, h4 a {
+	font-size: 28px;
+	margin: 0 0 15px 0;
+}
+h5, h5 a {
+	font-size: 24px;
+	margin: 0 0 13px 0;
+}
+h6, h6 a {
+	font-size: 20px;
+	margin: 0 0 9px 0;
+}
+p, ul, ol {
+	font-size: 16px;
+}
+.carouselWraper .carousel {
+	height: 580px;
+}
+.navigation {
+	padding-top: 23px;
+	padding-bottom: 23px;
+}
+#navigationTrigger {
+	margin-top: 9px;
+}
+.carouselWraper .carousel .fill .container {
+	display: block;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	height: auto;
+	width: 100%;
+	-webkit-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	z-index: 2;	
+}
+.carouselWraper .carousel .fill .container .carouselCaptionWraper {
+	background-color: #000 \9;
+	background-color: rgba(0, 0, 0, 0.5);
+	display: block;
+	padding: 30px;
+}
+.carouselWraper .carousel hr {
+	display: none;
+}
+.carouselWraper .carousel .item {
+	text-align: center;
+}
+.carouselWraper .carousel .item h1 {
+	line-height: 43px;
+}
+.carousel-indicators-wraper .carousel-indicators{
+	bottom: 10px;
+    left: 50%;
+    list-style: outside none none;
+    margin-left: -30%;
+    padding: 0;
+    position: absolute;
+    text-align: center;
+    width: 60%;
+    z-index: 15;
+}
+.carousel-indicators-wraper {
+	bottom: 15px;
+}
+.carouselController {
+	width: 100%;
+}
+.carousel-indicators-wraper .carousel-control.left, .carousel-indicators-wraper .carousel-control.right {
+	top: -36px;
+}
+.projects {
+	padding-top: 83px;
+	padding-bottom: 63px;
+}
+.traficWide {
+	padding-top: 83px;
+	padding-bottom: 63px;
+}
+.mbYTP_wrapper {
+	display: none;
+}
+.projects h2 br {
+	display: none;
+}
+.lightGray {
+	padding-bottom: 73px;
+    padding-top: 43px;
+}
+.ctaBox {
+	padding: 33px 0 0;
+}
+.ctaBox img {
+	margin-bottom: 23px;
+}
+.ctaBox h3 {
+	line-height: normal;
+}
+.newsletter, .shop {
+	padding-bottom: 30px;
+    padding-top: 30px;
+}
+.overlayContentWraper {
+	padding-top: 46px;
+	padding-bottom: 33px;
+}
+.responsiveDesign {
+	padding-top: 36px;
+	padding-bottom: 36px;
+	text-align: center;
+}
+.workWithZED {
+	padding-top: 36px;
+	padding-bottom: 36px;
+	text-align: center;
+}
+.ans {
+	padding-top: 26px;
+	padding-bottom: 26px;
+	text-align: center;
+}
+.leWeb {
+	padding-top: 36px;
+	padding-bottom: 36px;
+	text-align: center;
+}
+.workWithZED br,
+.ans br,
+.leWeb br {
+	display: none;
+}
+.responsiveDesign .overlayContent,
+.workWithZED .overlayContent,
+.ans .overlayContent,
+.leWeb .overlayContent  {	
+	position: static;
+	left: 0%;
+	top: 0%;
+	width: 100%;
+	-webkit-transform: translate(-0%, -0%);
+	-ms-transform: translate(-0%, -0%);
+	transform: translate(-0%, -0%);
+	z-index: 2;
+}
+.responsiveDesign img,
+.workWithZED img,
+.ans img {
+	margin-bottom: 33px;
+	width: 33%;
+}
+.leWeb img {
+	margin-bottom: 33px;
+	width: 23%;
+}
+.portfolioContent {
+	padding-top: 39px;
+	padding-bottom: 39px;
+	text-align: center;
+}
+.seo img {
+	margin-bottom: 23px;
+	width: 26%;
+}
+.panneau {
+	padding-right: 0;
+	width: 100%;
+}
+.sommelier {
+	background-position: right top;
+	height: 389px;
+}
+.Denturologiste {
+	background-position: right top;
+	height: 291px;
+}
+.Habitation {
+	background-position: right top;
+	height: 209px;
+}
+.RJCP {
+	background-position: right top;
+	height: 333px;
+}
+.MLorraine {
+	background-position: left top;
+	height: 259px;
+}
+.Plomberie {
+	background-position: left top;
+	height: 308px;
+}
+.Dansereau {
+	background-position: left top;
+	height: 234px;
+}
+.Atlantis {
+	background-position: left top;
+	height: 421px;
+}
+.formStyle .form-group {
+	margin-bottom: 7px;
+}
+.formStyle input[type="text"], .formStyle input[type="email"], .formStyle input[type="number"], .formStyle input[type="tel"], .formStyle input[type="password"], .formStyle textarea, .formStyle select, .formStyle .btn-default {
+	font-size: 12px;
+	padding: 7px 13px;
+}
+.formStyle textarea {
+	height: 70px;
+}
+.formStyle input[type="submit"], .formStyle input[type="button"], .formStyle input[type="reset"], .formStyle button[type="submit"], .formStyle button[type="reset"] {
+	font-size: 12px;
+	padding: 7px 13px;
+	min-width: auto;
+}
+.contact .carouselCaptionWraper {
+	margin-top: 50px;
+	padding: 20px;
+}
+.contact .carouselCaptionWraper h2 {
+	font-size: 23px;
+	margin-bottom: 10px;
+}
+.location {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+}
+.whiteWide {
+	padding-top: 13px;
+	padding-bottom: 13px;
+}
+.agence img {
+	margin-bottom: 13px;
+	width: 43%;
+}
+.agence h2 {
+	line-height: normal;
+}
+.agence br {
+	display: none;
+}
+.footerContactInfo, .socialMedia,
+.footerWide .btnOrenge {
+	margin: 13px 0;
+}
+.graySection {
+	padding-bottom: 23px;
+    padding-top: 33px;
+}
+.textright {
+	text-align: center;
+}
+.footerWide .btnOrenge {
+	font-size: 14px;
+	min-width: auto;
+	padding: 10px 20px;
+}
+.footerWide .graySection {
+	 padding-bottom: 13px;
+    padding-top: 23px;
+}	
+}
+/*Extra small device (XS-More refine)*/
+@media (max-width: 480px) {
+h1, h1 a {
+	font-size: 30px;
+	margin: 0 0 23px 0;
+}
+h2, h2 a {
+	font-size: 26px;
+	margin: 0 0 20px 0;
+}
+h3, h3 a {
+	font-size: 24px;
+	margin: 0 0 17px 0;
+}
+h4, h4 a {
+	font-size: 20px;
+	margin: 0 0 15px 0;
+}
+h5, h5 a {
+	font-size: 18px;
+	margin: 0 0 13px 0;
+}
+h6, h6 a {
+	font-size: 16px;
+	margin: 0 0 9px 0;
+}
+p, ul, ol {
+	font-size: 14px;
+}	
+.navigation {
+	padding-top: 13px;
+	padding-bottom: 13px;
+}
+.carouselWraper .carousel {
+	height: 480px;
+}
+.carouselWraper .carousel .fill .container .carouselCaptionWraper {
+	padding: 15px;
+}
+.contact .carouselCaptionWraper h2 {
+	font-size: 18px;
+}
+.formStyle textarea {
+	height: 50px;
+}
+.carouselWraper .carousel .item h1 {
+	margin-bottom: 23px;
+}
+.responsiveDesign img {
+	margin-bottom: 23px;
+	width: 26%;
+}
+.CMSdrupal {
+    padding-bottom: 26px;
+    padding-top: 26px;
+}
+.webSolution {
+	padding-top: 23px;
+	padding-bottom: 17px;
+}
+.seo {
+	padding-top: 26px;
+	padding-bottom: 26px;
+}
+.Emarketing {
+	padding-top: 26px;
+	padding-bottom: 23px;
+}
+.mission {
+	padding-top: 26px;
+	padding-bottom: 26px;
+}
+.agence h2 {
+	font-size: 19px;
+}
+
+.whiteWide {
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+.footerContactInfo li {
+	margin: 0 16px 13px;
+}
+.footerContactInfo li h6 img {
+	margin-right: 2px;
+    width: 17%;
+}	
+}
